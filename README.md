@@ -1,5 +1,10 @@
 # Classic-Models-Dataset Analysis  
 
+## Dashboard Overview  
+<img width="1566" height="563" alt="Screenshot 2026-05-16 235043" src="https://github.com/user-attachments/assets/04436478-c29c-47aa-828e-d12d8715ffaf" />
+
+
+
 ## Project Description  
 This project is an Excel-based Sales Performance Dashboard designed to provide a comprehensive overview of a company's sales data. The dashboard offers insights into various aspects of sales, including trends over time, sales by geographic region, product segmentation, and product performance. It is an essential tool for understanding business performance and making data-driven decisions.  
 ## Dataset Overview   
